@@ -5,7 +5,7 @@ A repository for R code to compute EVSI using one of four methods, developed in 
 3) Gaussian Approximation Method: Jalal, H. and Alarid-Escudero, F., 2018. A Gaussian approximation approach for value of information analysis. Medical Decision Making, 38(2), pp.174-188.
 4) Moment Matching Method: Heath, A., Manolopoulou, I. and Baio, G., 2019. Estimating the Expected Value of Sample Information across Different Sample Sizes Using Moment Matching and Nonlinear Regression. Medical Decision Making, 39(4), pp.347-359.
 
-This repository was created by Yidi Jiang (GitHub: YidiJiang) at The Hospital for Sick Children, Toronto, Canada in 2019 as an accompaignment to Knust et al. (2020), Computing the Expected Value of Sample Information Efficiently, Practical Guidance and Recommendations for Four Model-Based Methods, Value in Health.
+This repository was created by Yidi Jiang (GitHub: YidiJiang) at The Hospital for Sick Children, Toronto, Canada in 2019 as an accompaignment to Kunst et al. (2020), Computing the Expected Value of Sample Information Efficiently, Practical Guidance and Recommendations for Four Model-Based Methods, Value in Health.
 
 
 # Description:
